@@ -1,0 +1,43 @@
+body {
+
+    margin: 0;
+    padding: 0;
+   background-image: url("pusit.gif");
+}
+
+
+header {
+    text-align: center;
+    background-color: #da7acd; /* Purple color */
+    color: #fff;
+    padding: 20px;
+}
+/* Style the resume sections */
+.resume {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+h1{
+font-family: "Times New Roman", Times, serif;
+  text-align: left;
+padding: 0px 0px;
+}
+h2{
+font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+ul, p {
+ font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+img {
+  border-radius: 80px;
+  width:20%;
+  padding: 10px;
+}
